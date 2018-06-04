@@ -1,13 +1,13 @@
-package br.com.shinigame.agenda;
+package br.com.shinigame.agendajr;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class ListaALunoActivity extends AppCompatActivity {
+public class ListaAlunosActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_lista_aluno);
+        setContentView(R.layout.activity_lista_alunos);
     }
 }
