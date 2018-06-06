@@ -1,4 +1,4 @@
-package br.com.shinigame.agendajr;
+package br.com.shinigame.agendaalura;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("br.com.shinigame.agendajr", appContext.getPackageName());
+        assertEquals("br.com.shinigame.agendaalura", appContext.getPackageName());
     }
 }

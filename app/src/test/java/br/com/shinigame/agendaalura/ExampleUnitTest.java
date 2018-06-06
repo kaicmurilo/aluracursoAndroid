@@ -1,4 +1,4 @@
-package br.com.shinigame.agendajr;
+package br.com.shinigame.agendaalura;
 
 import org.junit.Test;
 
